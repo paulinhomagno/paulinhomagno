@@ -1,0 +1,3 @@
+- 👋 Sou Paulo Magno Oliveira Filho, tenho 33 anos. 
+- Sou formado em Administração, obtive experiência na área de gestão de frota de veículos e descobrindo a área de dados iniciei a transição de carreira em junho de 2021. 
+- Tendo um perfil analítico, reflexivo, observador e assim, me apaixonei por ciencia de dados. 
