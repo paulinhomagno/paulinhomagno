@@ -18,6 +18,6 @@
  </div>
 Sou formado em Administração, obtive experiência na área de gestão de frota de veículos e descobrindo a área de dados iniciei a transição de carreira em junho de 2021. 
 Tendo um perfil analítico, reflexivo, observador e assim, me apaixonei por ciencia de dados. 
-O diretório Python contém projetos voltados a ciência de dados com notebooks ipynb, imagens, arquivos csv em linguagens python e sql. 
+O diretório Python contém projetos voltados a ciência de dados com notebooks ipynb, imagens, arquivos csv e sql. 
 Conteúdos: Análise estatística, visualização de dados, machine learning, processamento distribuído, big data utilizando pandas, numpy, scikit learn, statsmodels, matplotlib, seaborn, apache hadoop, hive, spark e outros.
 
