@@ -12,7 +12,7 @@
   <img align = "center" alt = "Paulo-Sq" height = "30" width = "40" src="https://www.svgrepo.com/show/127001/sql-file-format.svg" />
   
   <img align = "center" alt = "Paulo-Pg" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align = "center" alt = "Paulo-Sp" height = "30" width = "40" src="https://symbols.getvecta.com/stencil_74/35_apache-spark.7899e844c8.svg" />
+  <img align = "center" alt = "Paulo-Sp" height = "30" width = "40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
   <img align = "center" alt = "Paulo-Sp" height = "30" width = "40" src="https://symbols.getvecta.com/stencil_78/19_databricks.d036b04cad.svg" />
   
  </div>
