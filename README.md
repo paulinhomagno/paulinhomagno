@@ -13,7 +13,7 @@
   
   <img align = "center" alt = "Paulo-Pg" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align = "center" alt = "Paulo-Sp" height = "30" width = "40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
-  <img align = "center" alt = "Paulo-Sp" height = "30" width = "40" src="https://symbols.getvecta.com/stencil_78/19_databricks.d036b04cad.svg" />
+  <img align = "center" alt = "Paulo-Sp" height = "30" width = "40" https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" />
   
  </div>
 Sou formado em Administração, obtive experiência na área de gestão de frota de veículos e descobrindo a área de dados iniciei a transição de carreira em junho de 2021. 
