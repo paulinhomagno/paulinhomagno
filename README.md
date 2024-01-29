@@ -16,9 +16,9 @@
   <img align = "center" alt = "Paulo-Sp" height = "30" width = "40" src = "https://seekvectorlogo.com/wp-content/uploads/2022/02/databricks-vector-logo-2022.png" />
   
  </div>
-Sou formado em Administração, obtive experiência na área de gestão de frota de veículos e descobrindo a área de dados iniciei a transição de carreira em junho de 2021. 
-Tenho um perfil analítico, resiliente, comunicativo, organizado, gosto de aprender e ser prático. 
-Tenho pós graduação em Ciência de Dados e atualmente cursando especialização em Análise de Dados e tomada de decisão na PUC Campinas.  
+Sou formado em Administração, obtive experiência na área de gestão de frota de veículos e descobrindo a área de dados iniciei a transição de carreira em junho de 2021.  
+Tenho um perfil analítico, resiliente, comunicativo, organizado, gosto de aprender e ser prático.  
+Tenho pós graduação em Ciência de Dados e atualmente cursando especialização em Análise de Dados e tomada de decisão na PUC Campinas.    
 Sou focado e venho me especializando em entregar os melhores resultados através dos dados.  
 Aqui nestes repositórios estão meus estudos, projetos, desafios que contribuem para meu desenvolvimento como um profissional dos dados.
 
