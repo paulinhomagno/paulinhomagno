@@ -17,8 +17,8 @@
   
  </div>
 Sou formado em Administração, obtive experiência na área de gestão de frota de veículos e descobrindo a área de dados iniciei a transição de carreira em junho de 2021. <br> 
-Tenho um perfil analítico, resiliente, comunicativo, organizado, gosto de aprender e ser prático.  
-Tenho pós graduação em Ciência de Dados e atualmente cursando especialização em Análise de Dados e tomada de decisão na PUC Campinas.    
-Sou focado e venho me especializando em entregar os melhores resultados através dos dados.  
+Tenho um perfil analítico, resiliente, comunicativo, organizado, gosto de aprender e ser prático.  <br>
+Possuo pós graduação em Ciência de Dados e atualmente cursando especialização em Análise de Dados e tomada de decisão na PUC Campinas.   <br>
+Sou focado e venho me especializando em entregar os melhores resultados através dos dados.  <br>
 Aqui nestes repositórios estão meus estudos, projetos, desafios que contribuem para meu desenvolvimento como um profissional dos dados.
 
