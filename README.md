@@ -2,7 +2,7 @@
  
  ##  Bem- vindo ao Github de Paulo Magno 👋
 :boy:Paulo Magno Oliveira Filho <br>
-:guitar: 33 anos<br>
+:guitar: 34 anos<br>
 :atom: Cientista de Dados
  <div style = "display: inline_block"><br>
   <img align = "center" alt = "Paulo-Py" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -17,7 +17,8 @@
   
  </div>
 Sou formado em Administração, obtive experiência na área de gestão de frota de veículos e descobrindo a área de dados iniciei a transição de carreira em junho de 2021. 
-Tendo um perfil analítico, reflexivo, observador e assim, me apaixonei por ciencia de dados. 
-O diretório Python contém projetos voltados a ciência de dados com notebooks ipynb, imagens, arquivos csv e sql. 
-Conteúdos: Análise estatística, visualização de dados, machine learning, processamento distribuído, big data utilizando pandas, numpy, scikit learn, statsmodels, matplotlib, seaborn, apache hadoop, hive, spark e outros.
+Tenho um perfil analítico, resiliente, comunicativo, organizado, gosto de aprender e ser prático. 
+Tenho pós graduação em Ciência de Dados e atualmente cursando especialização em Análise de Dados e tomada de decisão na PUC Campinas.  
+Sou focado e venho me especializando em entregar os melhores resultados através dos dados.  
+Aqui nestes repositórios estão meus estudos, projetos, desafios que contribuem para meu desenvolvimento como um profissional dos dados.
 
