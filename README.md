@@ -4,7 +4,7 @@
 :boy:Paulo Magno Oliveira Filho <br>
 :guitar: 36 anos<br>
 :atom: Analista de Dados
- <div style = "display: inline_block"><br>
+ <div style = "display: inline-block"><br>
   <img align = "center" alt = "Paulo-Py" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align = "center" alt = "Paulo-Pd" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align = "center" alt = "Paulo-Np" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
